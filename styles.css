@@ -1,0 +1,6 @@
+.circle {
+  height: 150px;
+  width: 150px;
+  border: 2px double steelblue;
+  box-shadow: 4px 6px;
+}
